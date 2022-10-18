@@ -83,6 +83,6 @@ Material:
     - _Smoothness: 0.3
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Position: {r: 0.5001394, g: 0.50000006, b: 16.553051, a: 0}
+    - _Position: {r: 0.5001397, g: 0.49999997, b: 16.552952, a: 0}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_BuildTextureStacks: []
